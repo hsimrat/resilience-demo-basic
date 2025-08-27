@@ -7,6 +7,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](/LICENSE)
 [![Build](https://img.shields.io/badge/Build-local-blue)](#quick-start)
 
+
+Susbscribe my Channel : https://youtube.com/@TECHScriptaid?sub_confirmation=1
+
 A minimal, public **teaching repo** that shows the *right way* to call external APIs in .NET:
 
 - **`IHttpClientFactory`** with **Named** & **Typed** clients
